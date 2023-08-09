@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@vue/runtime-dom": "^3.3.4",
     "joi": "^17.9.2"
   }
 }
